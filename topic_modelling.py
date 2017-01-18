@@ -1,4 +1,4 @@
-# Topic extraction with Non-negative Matrix Factorization and Latent Dirichlet Allocation¶
+# Topic extraction with Non-negative Matrix Factorization and Latent Dirichlet Allocation
 from __future__ import print_function
 import glob
 
